@@ -1,3 +1,8 @@
 function happyHolidays {
 console.log("Happy holidays!")
-}// write your code below!
+}// w
+
+function happyHolidaysTo(Sal) {
+ var name = "Sal"
+ console.log(`Happy holidays, ${name}`)
+}
