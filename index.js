@@ -1,11 +1,10 @@
 function happyHolidays() {
-returns ("Happy holidays!")
+returns (`Happy holidays!`)
 }
 
 function happyHolidaysTo(name) {
- var name = "Sal"; {
- } console.log(`Happy holidays, ${name}`); {
-   }
+ var name = "Sal"; 
+returns (`Happy holidays, ${name}`); 
 }
 
 function happyCustomHolidayTo(Easter, name) {
