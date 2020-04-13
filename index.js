@@ -1,5 +1,5 @@
 function happyHolidays() {
-console.log("Happy holidays!")
+returns "Happy holidays!"
 }// w
 
 function happyHolidaysTo(name) {
