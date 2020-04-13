@@ -3,8 +3,8 @@ console.log("Happy holidays!")
 }// w
 
 function happyHolidaysTo(name) {
- var name = "Sal" {
- } console.log(`Happy holidays, ${name}`) {
+ var name = "Sal";
+ console.log(`Happy holidays, ${name}`)
 }
 
 function happyCustomHolidayTo(Easter, name) {
