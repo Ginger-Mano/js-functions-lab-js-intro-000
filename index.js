@@ -16,5 +16,5 @@ function happyCustomHolidayTo(Easter, name) {
 function holidayCountdown(Easter, 5) {
   var holiday = "Easter"
   var days = "5"
-  console.log(`It\'s ${days} days until ${holiday}!`) 
+  returns (`It\'s ${days} days until ${holiday}!`) 
 }
