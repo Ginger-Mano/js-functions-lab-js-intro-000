@@ -1,6 +1,6 @@
 function happyHolidays() {
-returns ("Happy holidays!") 
-}// w
+returns ("Happy holidays!")
+}
 
 function happyHolidaysTo(name) {
  var name = "Sal"; {
