@@ -2,8 +2,8 @@ function happyHolidays() {
   return (`Happy holidays!`)
 }
 
-function happyHolidaysTo(Sal) {
-console.log(`Happy holidays, ${Sal}`);
+function happyHolidaysTo(sal) {
+return (`Happy holidays, ${sal}`);
 }
 
 function happyCustomHolidayTo(Easter, name) {
